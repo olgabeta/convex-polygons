@@ -4,6 +4,8 @@ For this project, we were asked to write a program in C++/OpenGL that converts t
 This procedure draws convex polygons by incrementally computing the linear functions of the polygons' edges for all pixels of their surrounding box.
 The result is mostly in pseudocode because no predefined OpenGL drawing commands other than those related to points and lines were allowed, which restricted our resources.
 
+The report was written using Overleaf/LaTeX.
+
 ---
 
 This repository contains:
