@@ -1,4 +1,4 @@
-# Convex Polygons project in COMPUTER GRAPHICS uni course
+# Convex Polygons project
 
 For this project, we were asked to write a program in C++/OpenGL that converts the triangle1 procedure (given) into a convex1 procedure.
 This procedure draws convex polygons by incrementally computing the linear functions of the polygons' edges for all pixels of their surrounding box.
